@@ -17,6 +17,7 @@ public class MainTests {
         return new Object[][]{{"Buy"}, {"Sell"}};
     }
 
+
     /**
      * Create order
      * Check order created
