@@ -18,6 +18,7 @@ public class MainTests {
     }
 
 
+
     /**
      * Create order
      * Check order created
@@ -300,6 +301,7 @@ public class MainTests {
         api.deleteOrderById("9999")
                 .assertHttpCode(404);
     }
+
 
     /**
      * Create 2 orders
