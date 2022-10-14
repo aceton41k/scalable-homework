@@ -6,6 +6,9 @@ import io.restassured.filter.log.ResponseLoggingFilter;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import scalable.tests.model.MarketDataResponse;
+import scalable.tests.model.MessageResponse;
+import scalable.tests.model.OrderResponse;
 
 
 import java.util.HashMap;

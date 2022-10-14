@@ -1,4 +1,4 @@
-package scalable.tests;
+package scalable.tests.model;
 
 import lombok.Getter;
 
